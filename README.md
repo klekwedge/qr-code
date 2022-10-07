@@ -30,5 +30,5 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Author
 
-- Website - [klekwedge](https://klekwedge.github.io/my-cv/ ()
+- Website - [klekwedge](https://klekwedge.github.io/my-cv/)
 - Frontend Mentor - [klekwedge](https://www.frontendmentor.io/profile/klekwedge)
