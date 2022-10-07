@@ -5,21 +5,22 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Table of contents
 
 - [Overview](#overview)
-  - [Screenshot](#screenshot)
+  <!-- - [Screenshot](#screenshot) -->
   - [Links](#links)
   - [Built with](#built-with)
   - [Author](#author)
 
 ## Overview
 
-### Screenshot
+<!-- ### Screenshot
 
-![Example](./screenshot.jpg)
+![Example](./screenshot.jpg) -->
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://github.com/klekwedge/qr-code-component-solution)
+
+- Live Site URL: [Live site](https://klekwedge.github.io/qr-code-component-solution/)
 
 ### Built with
 
@@ -29,5 +30,5 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [klekwedge](https://klekwedge.github.io/my-cv/ ()
+- Frontend Mentor - [klekwedge](https://www.frontendmentor.io/profile/klekwedge)
