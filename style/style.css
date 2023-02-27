@@ -154,7 +154,8 @@ textarea {
  * 1. Show the overflow in Edge.
  */
 button,
-input { /* 1 */
+input {
+  /* 1 */
   overflow: visible;
 }
 
@@ -163,7 +164,8 @@ input { /* 1 */
  * 1. Remove the inheritance of text transform in Firefox.
  */
 button,
-select { /* 1 */
+select {
+  /* 1 */
   text-transform: none;
 }
 
@@ -312,7 +314,7 @@ template {
 body,
 html {
   font-family: "Outfit", sans-serif;
-  background: hsl(212deg, 45%, 89%);
+  background: hsl(212, 45%, 89%);
   height: 100%;
 }
 
@@ -332,7 +334,7 @@ main {
   padding: 10px 10px 20px 10px;
   border-radius: 20px;
   margin-bottom: 30px;
-  background-color: hsl(0deg, 0%, 100%);
+  background-color: hsl(0, 0%, 100%);
 }
 .qr img {
   border-radius: 10px;
@@ -345,7 +347,7 @@ main {
 }
 .qr h1 {
   font-size: 20px;
-  color: hsl(218deg, 44%, 22%);
+  color: hsl(218, 44%, 22%);
   font-weight: 700;
   margin-bottom: 10px;
 }
@@ -361,5 +363,5 @@ main {
 }
 
 .attribution a {
-  color: hsl(228deg, 45%, 44%);
-}
+  color: hsl(228, 45%, 44%);
+}/*# sourceMappingURL=style.css.map */

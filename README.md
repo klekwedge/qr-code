@@ -5,30 +5,37 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Table of contents
 
 - [Overview](#overview)
-  <!-- - [Screenshot](#screenshot) -->
+  - [Screenshot](#screenshot)
   - [Links](#links)
+- [My process](#my-process)
   - [Built with](#built-with)
-  - [Author](#author)
+  - [What I learned](#what-i-learned)
+- [Author](#author)
 
 ## Overview
 
-<!-- ### Screenshot
+### Screenshot
 
-![Example](./screenshot.jpg) -->
+![Screenshot](./preview/screenshot.png)
 
 ### Links
 
-- Solution URL: [Solution](https://github.com/klekwedge/qr-code-component-solution)
+- Solution URL: [Solution](https://github.com/klekwedge/qr-code)
+- Live Site URL: [Live site](https://klekwedge.github.io/qr-code/)
 
-- Live Site URL: [Live site](https://klekwedge.github.io/qr-code-component-solution/)
+## My process
 
 ### Built with
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - Flexbox
 
-### Author
+### What I learned
 
-- Website - [klekwedge](https://klekwedge.github.io/my-cv/)
+I remembered how to work with Live Server and Watch Sass.
+
+## Author
+
+- Website - [klekwedge](https://klekwedge-cv.vercel.app/)
 - Frontend Mentor - [klekwedge](https://www.frontendmentor.io/profile/klekwedge)
